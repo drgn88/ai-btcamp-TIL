@@ -2,4 +2,4 @@
 대한상공회의소에서 진행하는 AI시스템반도체설계 부트캠프 공부 내용 기록입니다
 
 ## [시스템 프로그래밍](#시스템프로그래밍)
-[1. 표준입출력1]([#시스템프로그래밍/표준입출력1.md](https://github.com/drgn88/ai-btcamp-TIL/blob/main/%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%91%9C%EC%A4%80%EC%9E%85%EC%B6%9C%EB%A0%A51.md))
+[1. 표준입출력1]([#시스템프로그래밍/표준입출력1.md](https://github.com/drgn88/ai-btcamp-TIL/blob/main/%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%91%9C%EC%A4%80%EC%9E%85%EC%B6%9C%EB%A0%A51.md)
