@@ -7,7 +7,7 @@
 
 ## [시스템 프로그래밍](#시스템프로그래밍)
 ### 내용 정리
-- [1. 표준입출력1](https://github.com/drgn88/ai-btcamp-TIL/blob/main/%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%91%9C%EC%A4%80%EC%9E%85%EC%B6%9C%EB%A0%A51.md)
+- [1. 표준입출력1]([https://github.com/drgn88/ai-btcamp-TIL/blob/main/%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%91%9C%EC%A4%80%EC%9E%85%EC%B6%9C%EB%A0%A51.md](https://github.com/drgn88/ai-btcamp-TIL/blob/main/%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1.%ED%91%9C%EC%A4%80%EC%9E%85%EC%B6%9C%EB%A0%A51.md))
 - [2. 표준입출력2](https://github.com/drgn88/ai-btcamp-TIL/blob/main/%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/2.%ED%91%9C%EC%A4%80%EC%9E%85%EC%B6%9C%EB%A0%A52.md)
 
 ### 과제
