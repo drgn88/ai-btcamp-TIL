@@ -2,7 +2,8 @@
 대한상공회의소에서 진행하는 AI시스템반도체설계 부트캠프 공부 내용 기록입니다
 
 # 📖목차
-[시스템 프로그래밍](#시스템프로그래밍)
+[시스템 프로그래밍](#시스템프로그래밍)<br>
+[AI HW accelerater 설계](#AI-HW-accelerater-설계)
 
 
 ## [시스템 프로그래밍](https://github.com/drgn88/ai-btcamp-TIL/tree/main/%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
@@ -14,3 +15,5 @@
 - [5.조건문](https://github.com/drgn88/ai-btcamp-TIL/blob/main/%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/5.%EC%A1%B0%EA%B1%B4%EB%AC%B8(if%2C%20switch-case).md)
 
 ### 과제
+
+## [AI HW accelerater 설계]
