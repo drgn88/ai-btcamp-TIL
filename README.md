@@ -16,4 +16,4 @@
 
 ### 과제
 
-## [AI HW accelerater 설계]
+## AI HW accelerater 설계
