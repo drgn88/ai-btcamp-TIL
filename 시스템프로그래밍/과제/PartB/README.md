@@ -80,3 +80,28 @@ A, B, 9, D
 ---
 100원 미만을 반올림 처리한 결과를 출력
 1200
+# B8
+## Problem
+---
+프로그램을 오류가 발생하지 않도록 함수를 선언하라
+## Input Example
+---
+```c
+#include <stdio.h>
+
+// 여기에 함수 선언
+
+
+void main(void)
+{
+	weight(50);
+}
+
+void weight(int w)
+{
+	printf("Weight = %d Kg\n", w);
+}
+```
+## Output Example
+---
+Weight = 50 Kg
