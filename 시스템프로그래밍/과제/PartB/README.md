@@ -35,3 +35,13 @@ A, KOR
 ## Output Example
 ---
 123000
+# B4
+## Problem
+---
+4자리 16진수 수를 입력 받아 각 자리 값을 인쇄하라
+## Input Example
+---
+AB9D
+## Output Example
+---
+A, B, 9, D
