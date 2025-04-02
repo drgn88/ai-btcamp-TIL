@@ -25,3 +25,13 @@ A, KOR
 ## Output Example
 ---
 1000자리=2, 100자리=3, 10자리=4, 1자리=5
+# B2
+## Problem
+---
+변수 p에 저장된 값을 1000원 미만을 절사하는 코드를 구현하라
+## Input Example
+---
+123456
+## Output Example
+---
+123000
