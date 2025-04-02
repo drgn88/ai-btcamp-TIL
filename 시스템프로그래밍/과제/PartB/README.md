@@ -105,3 +105,44 @@ void weight(int w)
 ## Output Example
 ---
 Weight = 50 Kg
+# B9
+## Problem
+---
+에러가 없도록 다음 함수들을 선언하라
+## Input Example
+---
+```c
+#include <stdio.h>
+
+// 사용할 함수들의 선언
+
+void main(void)
+{
+	printf("sqr=%d\n", sqr(3));
+	printf("area=%d\n", area(3, 5));
+	printf("arc=%f\n", compute_circle_arc(4.1f));
+}
+
+int sqr(int x)
+{
+	return x * x;
+}
+
+int area(int x, int y)
+{
+	return x * y;
+}
+
+float compute_circle_arc(float radious)
+{ 
+	float pi = 3.141592f;
+
+	radious = 2 * radious * pi;
+	return radious;
+}
+```
+## Output Example
+---
+sqr=9
+area=15
+arc=25.761053
