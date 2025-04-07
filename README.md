@@ -15,6 +15,7 @@
 - [5.조건문](https://github.com/drgn88/ai-btcamp-TIL/blob/main/%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/5.%EC%A1%B0%EA%B1%B4%EB%AC%B8(if%2C%20switch-case).md)
 - [6.반복문](https://github.com/drgn88/ai-btcamp-TIL/blob/main/%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/6.%EB%B0%98%EB%B3%B5%EB%AC%B8(for%2C%20while).md)
 - [7.배열](https://github.com/drgn88/ai-btcamp-TIL/blob/main/%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/7.%EB%B0%B0%EC%97%B4.md)
+- [8.이차원 배열](https://github.com/drgn88/ai-btcamp-TIL/blob/main/%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/8.%EC%9D%B4%EC%B0%A8%EC%9B%90%EB%B0%B0%EC%97%B4.md#%EC%9D%B4%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4%EC%9D%98-%EA%B5%AC%EC%A1%B0)
 
 ### [과제](https://github.com/drgn88/ai-btcamp-TIL/tree/main/%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EA%B3%BC%EC%A0%9C)
 - [1.PartA](https://github.com/drgn88/ai-btcamp-TIL/tree/main/%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EA%B3%BC%EC%A0%9C/PartA)
