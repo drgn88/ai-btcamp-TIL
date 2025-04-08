@@ -27,3 +27,4 @@
 - [6.C_lang_test](https://github.com/drgn88/ai-btcamp-TIL/blob/main/%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EA%B3%BC%EC%A0%9C/C_level_test/c_lang_test.c)
 
 ## ARM 디바이스 프로그래밍
+> stm ide를 통한 편리한 사용보다는 반도체 설계자 관점에서 배우기(무에서 유를 내가 직접 만드는 과정)
