@@ -28,6 +28,7 @@
 
 ## ARM 디바이스 프로그래밍
 > stm ide를 통한 편리한 사용보다는 반도체 설계자 관점에서 배우기(무에서 유를 내가 직접 만드는 과정)
+## 디바이스 이론
 - [1. 기본 컴퓨터 구조](https://github.com/drgn88/ai-btcamp-TIL/blob/main/ARM%20%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1.%EA%B8%B0%EB%B3%B8_%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0.md)
 - [2. ⭐⭐⭐ARM 메모리와 Bus decoding](https://github.com/drgn88/ai-btcamp-TIL/blob/main/ARM%20%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/2.ARM%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%99%80%20Bus%20decoding.md#1-%EB%B0%98%EB%8F%84%EC%B2%B4-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%B6%84%EC%84%9D)
 - [3. GPIO 출력: 이론](https://github.com/drgn88/ai-btcamp-TIL/blob/main/ARM%20%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/3.GPIO%EC%B6%9C%EB%A0%A5_%EC%9D%B4%EB%A1%A0.md)
@@ -35,3 +36,10 @@
 - [5. ⭐Type Qualifer(제한자)](https://github.com/drgn88/ai-btcamp-TIL/blob/main/ARM%20%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/5.Type_Qualifier.md)
 - [6. CMSIS-Register 정의](https://github.com/drgn88/ai-btcamp-TIL/blob/main/ARM%20%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/6.CMSIS.md)
 - [7. ⭐⭐⭐Bit 연산과 Macro활용](https://github.com/drgn88/ai-btcamp-TIL/blob/main/ARM%20%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/7.%EB%B9%84%ED%8A%B8%EC%97%B0%EC%82%B0%EA%B3%BC%20%EB%A7%A4%ED%81%AC%EB%A1%9C%ED%99%9C%EC%9A%A9.md)
+
+## [과제](https://github.com/drgn88/ai-btcamp-TIL/tree/main/ARM%20%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%8B%A4%EC%8A%B5)
+- 1.LED 과제1
+- 2.LED 과제2
+- 3.kEY 과제 1
+- 4.kEY 과제 2
+- 5.UART: 숫자 받기 과제1
