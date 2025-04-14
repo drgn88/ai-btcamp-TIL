@@ -36,6 +36,7 @@
 - [5. ⭐Type Qualifer(제한자)](https://github.com/drgn88/ai-btcamp-TIL/blob/main/ARM%20%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/5.Type_Qualifier.md)
 - [6. CMSIS-Register 정의](https://github.com/drgn88/ai-btcamp-TIL/blob/main/ARM%20%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/6.CMSIS.md)
 - [7. ⭐⭐⭐Bit 연산과 Macro활용](https://github.com/drgn88/ai-btcamp-TIL/blob/main/ARM%20%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/7.%EB%B9%84%ED%8A%B8%EC%97%B0%EC%82%B0%EA%B3%BC%20%EB%A7%A4%ED%81%AC%EB%A1%9C%ED%99%9C%EC%9A%A9.md)
+- [8. ⭐System Clock](https://github.com/drgn88/ai-btcamp-TIL/blob/main/ARM%20%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/8.System%20clk.md)
 
 ## [과제](https://github.com/drgn88/ai-btcamp-TIL/tree/main/ARM%20%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%8B%A4%EC%8A%B5)
 - 1.LED 과제1
