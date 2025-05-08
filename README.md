@@ -58,5 +58,5 @@
 ## Verilog
 ### 이론
 - [1.Verilog & Vivado Overview](https://github.com/drgn88/ai-btcamp-TIL/blob/main/Verilog/1.Vivado_Overview.md)
-### Project
-- [1. 4bit_adder](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/adder_4b)
+### [Project](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/Project)
+- [1. 4bit_adder]
