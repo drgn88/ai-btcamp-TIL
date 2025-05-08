@@ -10,6 +10,9 @@
 	- [ARM 디바이스 프로그래밍](#arm-디바이스-프로그래밍)
 		- [디바이스 이론](#디바이스-이론)
 		- [과제](#과제-1)
+	- [Verilog](#verilog)
+		- [이론](#이론)
+		- [Project](#project)
 
 
 
@@ -51,3 +54,9 @@
 - 3.kEY 과제 1
 - 4.kEY 과제 2
 - 5.UART: 숫자 받기 과제1
+
+## Verilog
+### 이론
+- [1.Verilog & Vivado Overview](https://github.com/drgn88/ai-btcamp-TIL/blob/main/Verilog/1.Vivado_Overview.md)
+### Project
+- [1. 4bit_adder](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/adder_4b)
