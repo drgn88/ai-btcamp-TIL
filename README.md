@@ -59,6 +59,7 @@
 ### 이론
 - [1.Verilog & Vivado Overview](https://github.com/drgn88/ai-btcamp-TIL/blob/main/Verilog/1.Vivado_Overview.md)
 - [2. VSCODE setting & LUT](https://github.com/drgn88/ai-btcamp-TIL/blob/main/Verilog/2.%20VSCODE%20setting%20%26%20LUT.md)
+- [3.Counter & Clk Divider](https://github.com/drgn88/ai-btcamp-TIL/blob/main/Verilog/3.Counter%20%26%20Clk%20Divider.md)
 ### Project
 - [1. 4bit_adder](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/Project/adder_4b)
 - [2. 8b_adder_with_FND](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/Project/adder_w_FND.srcs)
