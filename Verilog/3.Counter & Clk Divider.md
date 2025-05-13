@@ -19,7 +19,7 @@
 
 ## Schematic
 
-![alt text](image-3.png)<br>
+![image](https://github.com/user-attachments/assets/37a8a27d-5002-4262-a0f9-708fb20e7368)<br>
 
 > 참고) 1Hz 분주기는 필자가 FPGA상에서 카운트되는 것을 확인하기 위해 추가한 모듈이다
 
@@ -149,7 +149,7 @@ module clk_divider (
 
 endmodule
 ```
-![alt text](image-4.png)<br>
+![image](https://github.com/user-attachments/assets/2fa5a625-a7f9-4236-8e68-37c84e73be1a)<br>
 > 4분주기 예시
 
 - Duty 50으로 4분주가 된 것을 확인할 수 있다
@@ -190,7 +190,7 @@ module clk_divider (
 
 endmodule
 ```
-![alt text](image-5.png)<br>
+![image](https://github.com/user-attachments/assets/b06a8783-749f-484d-9233-eb4e20228006)<br>
 > 4분주기 예시
 
 - 4분주이지만 Duty가 균등하지 않다
