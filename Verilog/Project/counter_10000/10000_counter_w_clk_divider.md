@@ -11,7 +11,7 @@
     - [특징](#특징-1)
     - [Code](#code-1)
       - [방법1.Duty-cycle 50%일정](#방법1duty-cycle-50일정)
-      - [방법2.Duty-cycle 조절 가능](#방법2duty-cycle-조절-가능)
+      - [방법2.Duty-cycle 조절 가능(혹은 Tick Generator)](#방법2duty-cycle-조절-가능혹은-tick-generator)
 
 
 
@@ -19,7 +19,7 @@
 
 ## Schematic
 
-![image](https://github.com/user-attachments/assets/37a8a27d-5002-4262-a0f9-708fb20e7368)<br>
+![image](https://github.com/user-attachments/assets/909664b3-265c-41ec-acf9-819aae60a0ec)<br>
 
 > 참고) 1Hz 분주기는 필자가 FPGA상에서 카운트되는 것을 확인하기 위해 추가한 모듈이다
 
@@ -149,12 +149,12 @@ module clk_divider (
 
 endmodule
 ```
-![image](https://github.com/user-attachments/assets/2fa5a625-a7f9-4236-8e68-37c84e73be1a)<br>
+![image](https://github.com/user-attachments/assets/d69dd036-d8f7-4f87-9e50-605f14375347)<br>
 > 4분주기 예시
 
 - Duty 50으로 4분주가 된 것을 확인할 수 있다
 
-#### 방법2.Duty-cycle 조절 가능
+#### 방법2.Duty-cycle 조절 가능(혹은 Tick Generator)
 ```verilog
 //방법2.Duty-cycle 조절 가능
 
@@ -190,10 +190,13 @@ module clk_divider (
 
 endmodule
 ```
-![image](https://github.com/user-attachments/assets/b06a8783-749f-484d-9233-eb4e20228006)<br>
+![image](https://github.com/user-attachments/assets/52175d6f-ca5b-4e4e-b6b9-0f00896e99f6)<br>
 > 4분주기 예시
 
 - 4분주이지만 Duty가 균등하지 않다
   - Duty Cycle을 조절할 수 있는 Code
+- Tick 발생기로도 사용됨
+  - 주로 신호를 한번만 보낼 때에도 사용
+  - Power에도 유리
 
 >참고) Duty의 기준은 High를 기준으로 한다
