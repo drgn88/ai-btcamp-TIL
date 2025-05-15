@@ -60,7 +60,12 @@
 - [1.Verilog & Vivado Overview](https://github.com/drgn88/ai-btcamp-TIL/blob/main/Verilog/1.Vivado_Overview.md)
 - [2. VSCODE setting & LUT](https://github.com/drgn88/ai-btcamp-TIL/blob/main/Verilog/2.%20VSCODE%20setting%20%26%20LUT.md)
 - [3.Counter & Clk Divider](https://github.com/drgn88/ai-btcamp-TIL/blob/main/Verilog/3.Counter%20%26%20Clk%20Divider.md)
+- [4. Verilog 자료형 및 FPGA 이론](https://github.com/drgn88/ai-btcamp-TIL/blob/main/Verilog/4.Verilog_%EC%9E%90%EB%A3%8C%ED%98%95%20%EB%B0%8F%20FPGA%20%EC%9D%B4%EB%A1%A0.md)
+- [5. ⭐Gate 수준 Modeling/ D F/F / CDC](https://github.com/drgn88/ai-btcamp-TIL/blob/main/Verilog/5.Gate%EC%88%98%EC%A4%80%EB%AA%A8%EB%8D%B8%EB%A7%81_DFF_Delay_CDC.md)
+- [6. 행위수준 Modeling/ ⭐FSM](https://github.com/drgn88/ai-btcamp-TIL/blob/main/Verilog/6.Behavioral_FSM.md)
 ### Project
 - [1. 4bit_adder](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/Project/adder_4b)
 - [2. 8b_adder_with_FND](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/Project/adder_w_FND.srcs)
 - [3. 10000진 카운터](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/Project/counter_10000)
+- [4. 분초 타이머와 틱 생성기](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/Project/min_sec_timer_w_tick_gen)
+- [5. Non-overlapping 1010](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/Project/non_overlapping_1010)
