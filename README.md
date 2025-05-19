@@ -13,6 +13,7 @@
 	- [Verilog](#verilog)
 		- [이론](#이론)
 		- [Project](#project)
+    		- [어려웠던 점](#어려웠던-점)
 
 
 
