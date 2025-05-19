@@ -69,3 +69,4 @@
 - [3. 10000진 카운터](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/Project/counter_10000)
 - [4. 분초 타이머와 틱 생성기](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/Project/min_sec_timer_w_tick_gen)
 - [5. Non-overlapping 1010](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/Project/non_overlapping_1010)
+### 어려웠던 점
