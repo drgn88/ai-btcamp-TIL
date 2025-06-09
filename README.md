@@ -82,7 +82,10 @@
 
 ## System Verilog
 ### 이론
-- [1.]()
-- [2.]()
-- [3.]()
+- [1.VCS Verdi 기초 및 Blocking Vs Non-Blocking](https://github.com/drgn88/ai-btcamp-TIL/blob/main/System_Verilog/TIL/250604.md)
+- [2.Delta Delay & System Verilog Basic](https://github.com/drgn88/ai-btcamp-TIL/blob/main/System_Verilog/TIL/250605.md)
+- [3.SV: 4-type Array & Subroutine(w fork-join)](https://github.com/drgn88/ai-btcamp-TIL/blob/main/System_Verilog/TIL/260609.md)
 ### 실습
+- [SV TB Format w Shift_reg](https://github.com/drgn88/ai-btcamp-TIL/tree/main/System_Verilog/%EC%8B%A4%EC%8A%B5/250604)
+- [enum & string](https://github.com/drgn88/ai-btcamp-TIL/tree/main/System_Verilog/%EC%8B%A4%EC%8A%B5/250605)
+- [⭐4-type Array & Fork-join](https://github.com/drgn88/ai-btcamp-TIL/tree/main/System_Verilog/%EC%8B%A4%EC%8A%B5/250609/ARRAY)
