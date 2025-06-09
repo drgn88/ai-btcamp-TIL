@@ -9,14 +9,16 @@
 		- [과제](#과제)
 	- [🖋️ARM 디바이스 프로그래밍](#️arm-디바이스-프로그래밍)
 		- [디바이스 이론](#디바이스-이론)
-		- [과제](#과제-1)
+		- [Assignment](#assignment)
+		- [프로젝트](#프로젝트)
 	- [🖋️Verilog](#️verilog)
 		- [이론](#이론)
+		- [Assignment](#assignment-1)
 		- [Project](#project)
 		- [어려웠던 점](#어려웠던-점)
 	- [🖋️System Verilog](#️system-verilog)
 		- [이론](#이론-1)
-		- [실습](#실습)
+		- [Assignment](#assignment-2)
 
 
 
@@ -52,12 +54,15 @@
 - [7. ⭐⭐⭐Bit 연산과 Macro활용](https://github.com/drgn88/ai-btcamp-TIL/blob/main/ARM%20%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/7.%EB%B9%84%ED%8A%B8%EC%97%B0%EC%82%B0%EA%B3%BC%20%EB%A7%A4%ED%81%AC%EB%A1%9C%ED%99%9C%EC%9A%A9.md)
 - [8. ⭐System Clock](https://github.com/drgn88/ai-btcamp-TIL/blob/main/ARM%20%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/8.System%20clk.md)
 
-### [과제](https://github.com/drgn88/ai-btcamp-TIL/tree/main/ARM%20%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%8B%A4%EC%8A%B5)
+### [Assignment](https://github.com/drgn88/ai-btcamp-TIL/tree/main/ARM%20%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%8B%A4%EC%8A%B5)
 - 1.LED 과제1
 - 2.LED 과제2
 - 3.kEY 과제 1
 - 4.kEY 과제 2
 - 5.UART: 숫자 받기 과제1
+
+### 프로젝트
+- [ARM m3 Board를 이용한 게임 개발](https://github.com/drgn88/Arm_device_Mini_Prj/tree/main)
 
 ## 🖋️Verilog
 ### 이론
@@ -71,12 +76,25 @@
 - [8. Combination Logic & Sequential Logic](https://github.com/drgn88/ai-btcamp-TIL/blob/main/Verilog/8.%20Combination%20Logic%20%26%20Sequential%20Logic.md)
 - [9. UART 이론 및 설계](https://github.com/drgn88/ai-btcamp-TIL/blob/main/Verilog/9.%20UART%20%EC%9D%B4%EB%A1%A0%20%EB%B0%8F%20%EC%84%A4%EA%B3%84.md)
 - [10. 메모리 이론과 설계(w FPGA BRAM)](https://github.com/drgn88/ai-btcamp-TIL/blob/main/Verilog/10.%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%84%A4%EA%B3%84(w%20FPGA%20BRAM).md)
-### Project
+### Assignment
 - [1. 4bit_adder](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/Project/adder_4b)
 - [2. 8b_adder_with_FND](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/Project/adder_w_FND.srcs)
 - [3. 10000진 카운터](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/Project/counter_10000)
 - [4. 분초 타이머와 틱 생성기](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/Project/min_sec_timer_w_tick_gen)
-- [5. Non-overlapping 1010](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/Project/non_overlapping_1010)
+- [5. Non-overlapping 1010 using FSM](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/Project/non_overlapping_1010)
+- [6. Blink FND Watch Timer](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/Project/blink_watch_timer)
+- [7. Btn Debouncer](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/Project/Debouncer)
+- [8. UART TX](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/Project/UART_TX)
+- [9. UART TX + RX](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/Project/UART_TX_RX)
+- [10. FIFO Using RAM(w BRAM)](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/Project/FIFO_using_ram)
+- [11. UART FIFO](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/Project/UART_FIFO)
+- [12. UART ASCII Sender](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/Project/Sender_uart)
+- [13. SR04 초음파 센서 제어](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/Project/SR04_sonic_sensor)
+- [14. DHT11 온습도 센서 제어](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/Project/DHT11_humid_temp_sensor)
+
+### Project
+- [개인 프로젝트: Stop Watch & Watch Using Basys3](https://github.com/drgn88/stop_watch_watch_basys3)
+- [팀 프로젝트: UART와 FPGA를 이용한 시계-센서 제어(w Basys 3)](https://github.com/drgn88/uart_sensor_stop_watch)
 
 ### 어려웠던 점
 
@@ -85,7 +103,7 @@
 - [1.VCS Verdi 기초 및 Blocking Vs Non-Blocking](https://github.com/drgn88/ai-btcamp-TIL/blob/main/System_Verilog/TIL/250604.md)
 - [2.Delta Delay & System Verilog Basic](https://github.com/drgn88/ai-btcamp-TIL/blob/main/System_Verilog/TIL/250605.md)
 - [3.SV: 4-type Array & Subroutine(w fork-join)](https://github.com/drgn88/ai-btcamp-TIL/blob/main/System_Verilog/TIL/260609.md)
-### 실습
+### Assignment
 - [SV TB Format w Shift_reg](https://github.com/drgn88/ai-btcamp-TIL/tree/main/System_Verilog/%EC%8B%A4%EC%8A%B5/250604)
 - [enum & string](https://github.com/drgn88/ai-btcamp-TIL/tree/main/System_Verilog/%EC%8B%A4%EC%8A%B5/250605)
 - [⭐4-type Array & Fork-join](https://github.com/drgn88/ai-btcamp-TIL/tree/main/System_Verilog/%EC%8B%A4%EC%8A%B5/250609/ARRAY)
