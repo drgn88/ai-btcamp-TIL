@@ -13,7 +13,10 @@
 	- [Verilog](#verilog)
 		- [이론](#이론)
 		- [Project](#project)
-    		- [어려웠던 점](#어려웠던-점)
+		- [어려웠던 점](#어려웠던-점)
+	- [System Verilog](#system-verilog)
+		- [이론](#이론-1)
+		- [실습](#실습)
 
 
 
@@ -64,10 +67,22 @@
 - [4. Verilog 자료형 및 FPGA 이론](https://github.com/drgn88/ai-btcamp-TIL/blob/main/Verilog/4.Verilog_%EC%9E%90%EB%A3%8C%ED%98%95%20%EB%B0%8F%20FPGA%20%EC%9D%B4%EB%A1%A0.md)
 - [5. ⭐Gate 수준 Modeling/ D F/F / CDC](https://github.com/drgn88/ai-btcamp-TIL/blob/main/Verilog/5.Gate%EC%88%98%EC%A4%80%EB%AA%A8%EB%8D%B8%EB%A7%81_DFF_Delay_CDC.md)
 - [6. 행위수준 Modeling/ ⭐FSM](https://github.com/drgn88/ai-btcamp-TIL/blob/main/Verilog/6.Behavioral_FSM.md)
+- [7. 구조적 모델링과 Task, Macro](https://github.com/drgn88/ai-btcamp-TIL/blob/main/Verilog/7.%EA%B5%AC%EC%A1%B0%EC%A0%81%20%EB%AA%A8%EB%8D%B8%EB%A7%81%EA%B3%BC%20Task%2C%20Macro.md)
+- [8. Combination Logic & Sequential Logic](https://github.com/drgn88/ai-btcamp-TIL/blob/main/Verilog/8.%20Combination%20Logic%20%26%20Sequential%20Logic.md)
+- [9. UART 이론 및 설계](https://github.com/drgn88/ai-btcamp-TIL/blob/main/Verilog/9.%20UART%20%EC%9D%B4%EB%A1%A0%20%EB%B0%8F%20%EC%84%A4%EA%B3%84.md)
+- [10. 메모리 이론과 설계(w FPGA BRAM)](https://github.com/drgn88/ai-btcamp-TIL/blob/main/Verilog/10.%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%84%A4%EA%B3%84(w%20FPGA%20BRAM).md)
 ### Project
 - [1. 4bit_adder](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/Project/adder_4b)
 - [2. 8b_adder_with_FND](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/Project/adder_w_FND.srcs)
 - [3. 10000진 카운터](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/Project/counter_10000)
 - [4. 분초 타이머와 틱 생성기](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/Project/min_sec_timer_w_tick_gen)
 - [5. Non-overlapping 1010](https://github.com/drgn88/ai-btcamp-TIL/tree/main/Verilog/Project/non_overlapping_1010)
+
 ### 어려웠던 점
+
+## System Verilog
+### 이론
+- [1.]()
+- [2.]()
+- [3.]()
+### 실습
