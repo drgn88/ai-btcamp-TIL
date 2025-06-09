@@ -1,0 +1,2 @@
+vcs -full64 -sverilog find_function.sv
+./simv

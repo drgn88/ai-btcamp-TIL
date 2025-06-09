@@ -1,0 +1,4 @@
+./counter1.v
+./counter2.v
+./counter3.v
+./tb_cnt.v

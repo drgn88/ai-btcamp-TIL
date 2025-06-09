@@ -1,0 +1,2 @@
+vcs -full64 -sverilog dynamic_array.sv
+./simv

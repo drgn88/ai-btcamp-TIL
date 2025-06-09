@@ -1,0 +1,2 @@
+vcs -full64 -sverilog fixed_size_array.sv
+./simv

@@ -1,0 +1,2 @@
+vcs -full64 -sverilog fork_join_loop.sv
+./simv

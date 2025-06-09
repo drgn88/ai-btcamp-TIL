@@ -1,0 +1,2 @@
+vcs -sverilog -f DUT_filelist -full64 -kdb -debug_access+all
+./simv -verdi &
