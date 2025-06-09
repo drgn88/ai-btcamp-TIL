@@ -1,0 +1,2 @@
+vcs -full64 -sverilog str_test.sv
+./simv
