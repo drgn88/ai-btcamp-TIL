@@ -4,23 +4,23 @@
 # 📖목차
 - [AI시스템 반도체 설계](#ai시스템-반도체-설계)
 - [📖목차](#목차)
-	- [시스템 프로그래밍](#시스템-프로그래밍)
+	- [🖋️시스템 프로그래밍](#️시스템-프로그래밍)
 		- [C언어 기본](#c언어-기본)
 		- [과제](#과제)
-	- [ARM 디바이스 프로그래밍](#arm-디바이스-프로그래밍)
+	- [🖋️ARM 디바이스 프로그래밍](#️arm-디바이스-프로그래밍)
 		- [디바이스 이론](#디바이스-이론)
 		- [과제](#과제-1)
-	- [Verilog](#verilog)
+	- [🖋️Verilog](#️verilog)
 		- [이론](#이론)
 		- [Project](#project)
 		- [어려웠던 점](#어려웠던-점)
-	- [System Verilog](#system-verilog)
+	- [🖋️System Verilog](#️system-verilog)
 		- [이론](#이론-1)
 		- [실습](#실습)
 
 
 
-## [시스템 프로그래밍](https://github.com/drgn88/ai-btcamp-TIL/tree/main/%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
+## 🖋️시스템 프로그래밍
 ### C언어 기본
 - [1. 표준입출력1](https://github.com/drgn88/ai-btcamp-TIL/blob/main/%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1.%ED%91%9C%EC%A4%80%EC%9E%85%EC%B6%9C%EB%A0%A51.md)
 - [2. 표준입출력2](https://github.com/drgn88/ai-btcamp-TIL/blob/main/%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/2.%ED%91%9C%EC%A4%80%EC%9E%85%EC%B6%9C%EB%A0%A52.md)
@@ -40,7 +40,7 @@
 - [5.PartE](https://github.com/drgn88/ai-btcamp-TIL/tree/main/%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EA%B3%BC%EC%A0%9C/PartE)
 - [6.C_lang_test](https://github.com/drgn88/ai-btcamp-TIL/blob/main/%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EA%B3%BC%EC%A0%9C/C_level_test/c_lang_test.c)
 
-## ARM 디바이스 프로그래밍
+## 🖋️ARM 디바이스 프로그래밍
 > stm ide를 통한 편리한 사용보다는 반도체 설계자 관점에서 배우기(무에서 유를 내가 직접 만드는 과정)
 ### 디바이스 이론
 - [1. 기본 컴퓨터 구조](https://github.com/drgn88/ai-btcamp-TIL/blob/main/ARM%20%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1.%EA%B8%B0%EB%B3%B8_%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0.md)
@@ -59,7 +59,7 @@
 - 4.kEY 과제 2
 - 5.UART: 숫자 받기 과제1
 
-## Verilog
+## 🖋️Verilog
 ### 이론
 - [1.Verilog & Vivado Overview](https://github.com/drgn88/ai-btcamp-TIL/blob/main/Verilog/1.Vivado_Overview.md)
 - [2. VSCODE setting & LUT](https://github.com/drgn88/ai-btcamp-TIL/blob/main/Verilog/2.%20VSCODE%20setting%20%26%20LUT.md)
@@ -80,7 +80,7 @@
 
 ### 어려웠던 점
 
-## System Verilog
+## 🖋️System Verilog
 ### 이론
 - [1.VCS Verdi 기초 및 Blocking Vs Non-Blocking](https://github.com/drgn88/ai-btcamp-TIL/blob/main/System_Verilog/TIL/250604.md)
 - [2.Delta Delay & System Verilog Basic](https://github.com/drgn88/ai-btcamp-TIL/blob/main/System_Verilog/TIL/250605.md)
