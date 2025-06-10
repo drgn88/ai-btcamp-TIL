@@ -1,0 +1,2 @@
+vcs -full64 -sverilog this_keyword.sv
+./simv
