@@ -1,0 +1,2 @@
+vcs -full64 -sverilog tb_dpi_c.sv addition.c
+./simv

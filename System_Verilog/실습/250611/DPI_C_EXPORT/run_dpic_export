@@ -1,0 +1,2 @@
+vcs -full64 -sverilog tb_dpic_export.sv c_caller.c
+./simv

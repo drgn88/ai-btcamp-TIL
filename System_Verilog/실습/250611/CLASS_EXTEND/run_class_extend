@@ -1,0 +1,3 @@
+vcs -full64 -sverilog class_extend.sv
+#./simv
+./simv +ntb_random_seed=300
