@@ -19,6 +19,9 @@
 	- [🖋️System Verilog](#️system-verilog)
 		- [이론](#이론-1)
 		- [Assignment](#assignment-2)
+	- [🖋️Auto P\&R](#️auto-pr)
+		- [이론](#이론-2)
+		- [Assignment](#assignment-3)
 
 
 
@@ -105,6 +108,8 @@
 - [3.SV: 4-type Array & Subroutine(w fork-join)](https://github.com/drgn88/ai-btcamp-TIL/blob/main/System_Verilog/TIL/260609.md)
 - [4. Class & Randomization](https://github.com/drgn88/ai-btcamp-TIL/blob/main/System_Verilog/TIL/260610.md)
 - [5. Class Inheritance & Thread 통신 & Coverage](https://github.com/drgn88/ai-btcamp-TIL/blob/main/System_Verilog/TIL/250611.md)
+- [6. How to Use VCS](https://github.com/drgn88/ai-btcamp-TIL/blob/main/System_Verilog/TIL/250612.md)
+- [7. Verdi & Gate Level Simulation](https://github.com/drgn88/ai-btcamp-TIL/blob/main/System_Verilog/TIL/250613.md)
 
 ### Assignment
 - [SV TB Format w Shift_reg](https://github.com/drgn88/ai-btcamp-TIL/tree/main/System_Verilog/%EC%8B%A4%EC%8A%B5/250604)
@@ -112,3 +117,9 @@
 - [⭐4-type Array & Fork-join](https://github.com/drgn88/ai-btcamp-TIL/tree/main/System_Verilog/%EC%8B%A4%EC%8A%B5/250609/ARRAY)
 - [Class & Randomization](https://github.com/drgn88/ai-btcamp-TIL/tree/main/System_Verilog/%EC%8B%A4%EC%8A%B5/250610)
 - [Extended Class/ DPI-C / Semaphore](https://github.com/drgn88/ai-btcamp-TIL/tree/main/System_Verilog/%EC%8B%A4%EC%8A%B5/250611)
+- [VCS & Verdi-Gate level Simulation]
+
+## 🖋️Auto P&R
+### 이론
+
+### Assignment
