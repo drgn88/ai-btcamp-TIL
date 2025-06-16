@@ -121,5 +121,5 @@
 
 ## 🖋️Custom Compiler (Synopsys)
 ### 이론
-
+- [1. CMOS Design/ Custom Compiler 기본 사용법: Inverter](https://github.com/drgn88/ai-btcamp-TIL/blob/main/Custom_Compiler/TIL/250616.md)
 ### Assignment
