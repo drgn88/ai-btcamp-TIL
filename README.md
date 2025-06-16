@@ -19,7 +19,7 @@
 	- [🖋️System Verilog](#️system-verilog)
 		- [이론](#이론-1)
 		- [Assignment](#assignment-2)
-	- [🖋️Auto P\&R](#️auto-pr)
+	- [🖋️Custom Compiler (Synopsys)](#️custom-compiler-synopsys)
 		- [이론](#이론-2)
 		- [Assignment](#assignment-3)
 
@@ -119,7 +119,7 @@
 - [Extended Class/ DPI-C / Semaphore](https://github.com/drgn88/ai-btcamp-TIL/tree/main/System_Verilog/%EC%8B%A4%EC%8A%B5/250611)
 - [VCS & Verdi-Gate level Simulation]
 
-## 🖋️Auto P&R
+## 🖋️Custom Compiler (Synopsys)
 ### 이론
 
 ### Assignment
