@@ -22,6 +22,8 @@
 	- [🖋️Custom Compiler (Synopsys)](#️custom-compiler-synopsys)
 		- [이론](#이론-2)
 		- [Assignment](#assignment-3)
+	- [📘개인공부](#개인공부)
+		- [👨‍💻TCL](#tcl)
 
 
 
@@ -124,3 +126,9 @@
 - [1. CMOS Design/ Custom Compiler 기본 사용법: Inverter](https://github.com/drgn88/ai-btcamp-TIL/blob/main/Custom_Compiler/TIL/250616.md)
 - [2. CMOS Layout & Stick Diagram/ Custom Compiler PrimeSim: Inverter](https://github.com/drgn88/ai-btcamp-TIL/blob/main/Custom_Compiler/TIL/250617.md)
 ### Assignment
+
+
+## 📘개인공부
+
+### 👨‍💻TCL
+- [Chapter1. 변수와 set 명령어](https://github.com/drgn88/ai-btcamp-TIL/blob/main/TCL/TIL/Chap1.%EB%B3%80%EC%88%98%26set.md)
