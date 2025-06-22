@@ -100,6 +100,7 @@
 ### Project
 - [개인 프로젝트: Stop Watch & Watch Using Basys3](https://github.com/drgn88/stop_watch_watch_basys3)
 - [팀 프로젝트: UART와 FPGA를 이용한 시계-센서 제어(w Basys 3)](https://github.com/drgn88/uart_sensor_stop_watch)
+- [개인 프로젝트: PWM을 이용한 전자레인지 구현(w Basys3)](https://github.com/drgn88/Basys3_microwave_pwm)
 
 ### 어려웠던 점
 
