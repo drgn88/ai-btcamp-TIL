@@ -135,3 +135,4 @@
 ### 👨‍💻TCL
 - [Chapter1. 변수와 set 명령어](https://github.com/drgn88/ai-btcamp-TIL/blob/main/TCL/TIL/Chap1.%EB%B3%80%EC%88%98%26set.md)
 - [Chapter2. put 명령어와 출력](https://github.com/drgn88/ai-btcamp-TIL/blob/main/TCL/TIL/Chap2.%EC%B6%9C%EB%A0%A5%2C%20puts.md)
+- [Chapter3. 주석 사용 #](https://github.com/drgn88/ai-btcamp-TIL/blob/main/TCL/TIL/Chap3.%EC%A3%BC%EC%84%9D.md)
