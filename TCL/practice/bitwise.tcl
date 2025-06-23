@@ -1,0 +1,6 @@
+puts [expr {5 & 3}]     
+puts [expr {5 | 3}]     
+puts [expr {5 ^ 3}]     
+puts [expr {~5}]        
+puts [expr {1 << 3}]    
+puts [expr {8 >> 1}]    

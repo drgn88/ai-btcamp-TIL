@@ -1,0 +1,6 @@
+puts [expr {5 + 3}]
+puts [expr {10 - 4}]
+puts [expr {4 * 5}]
+puts [expr {32 / 5}]
+puts [expr {15 % 8}]
+puts [expr {8 ** 3}]
