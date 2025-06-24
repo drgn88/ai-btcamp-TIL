@@ -22,6 +22,9 @@
 	- [🖋️Custom Compiler (Synopsys)](#️custom-compiler-synopsys)
 		- [이론](#이론-2)
 		- [Assignment](#assignment-3)
+	- [🖋️AI Algorithm](#️ai-algorithm)
+		- [이론](#이론-3)
+		- [실습](#실습)
 	- [📘개인공부](#개인공부)
 		- [👨‍💻TCL](#tcl)
 
@@ -129,6 +132,14 @@
 - [3. MOSFET 동작영역 & Beta ratio/ 2NAND Simulation](https://github.com/drgn88/ai-btcamp-TIL/blob/main/Custom_Compiler/TIL/250618.md)
 ### Assignment
 
+## 🖋️AI Algorithm
+### 이론
+- [1. Python 가상환경 & 리눅스 기초 환경 세팅](https://github.com/drgn88/ai-btcamp-TIL/blob/main/AI/TIL/250623.md)
+- [2. 딥러닝 프레임워크 & OpenCV 기초](https://github.com/drgn88/ai-btcamp-TIL/blob/main/AI/TIL/250624.md)
+
+
+### 실습
+- [1. OpenCV 기초 실습](https://github.com/drgn88/ai-btcamp-TIL/blob/main/AI/%EC%8B%A4%EC%8A%B5%EC%A0%95%EB%A6%AC/250624.md)
 
 ## 📘개인공부
 
