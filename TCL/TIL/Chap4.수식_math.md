@@ -126,3 +126,4 @@ puts [expr {$x + $y}]  # 출력: 8
 <img src="./chap4_img/Screenshot from 2025-06-24 08-58-19.png"><br>
 
 > 맘편하게 괄호 사용하자
+
