@@ -1,4 +1,18 @@
 ## 목차
+- [if문](#if문)
+  - [문법](#문법)
+  - [예시](#예시)
+  - [주의사항⚠️](#주의사항️)
+- [switch 문](#switch-문)
+  - [문법](#문법-1)
+  - [예시](#예시-1)
+  - [switch option](#switch-option)
+    - [사용 예시](#사용-예시)
+- [if Vs switch](#if-vs-switch)
+- [TIP](#tip)
+  - [if문과 expr명령](#if문과-expr명령)
+  - [switch문과 fall-through](#switch문과-fall-through)
+  - [if Vs switch: 가독성](#if-vs-switch-가독성)
 
 # if문
 
