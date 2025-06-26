@@ -25,6 +25,7 @@
 	- [🖋️AI Algorithm](#️ai-algorithm)
 		- [이론](#이론-3)
 		- [실습](#실습)
+		- [보고서](#보고서)
 	- [📘개인공부](#개인공부)
 		- [👨‍💻TCL](#tcl)
 
@@ -140,6 +141,10 @@
 
 ### 실습
 - [1. OpenCV 기초 실습](https://github.com/drgn88/ai-btcamp-TIL/blob/main/AI/%EC%8B%A4%EC%8A%B5%EC%A0%95%EB%A6%AC/250624.md)
+
+### 보고서
+- [단일 Perceptron과 XOR 한계](https://github.com/drgn88/ai-btcamp-TIL/blob/main/AI/%EC%8B%A4%EC%8A%B5%EC%A0%95%EB%A6%AC/250625_and_perceptron.md)
+- [SLP 개선: MLP](https://github.com/drgn88/ai-btcamp-TIL/blob/main/AI/%EC%8B%A4%EC%8A%B5%EC%A0%95%EB%A6%AC/250626_MLP_SLP%EB%B9%84%EA%B5%90.md)
 
 ## 📘개인공부
 
