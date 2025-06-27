@@ -18,7 +18,7 @@ set mixed [list "Hello World" 42 3.14 {nested list}]
 puts $mixed  # 출력: {Hello World} 42 3.14 {nested list}
 ```
 
-<img src="./chap6_img/Screenshot from 2025-06-27 08-18-41.png"><br>
+<img src="./chap6_img/Screenshot from 2025-06-27 08-18-41.png"><br> 
 
 ### 특징
 - 공백이나, 특수문자를 포함한 인자도 하나의 요소로 처리
