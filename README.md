@@ -160,3 +160,4 @@
 - [Chapter4. 수학, math](https://github.com/drgn88/ai-btcamp-TIL/blob/main/TCL/TIL/Chap4.%EC%88%98%EC%8B%9D_math.md)
 - [Chapter5. if & switch](https://github.com/drgn88/ai-btcamp-TIL/blob/main/TCL/TIL/Chap5.%EC%A1%B0%EA%B1%B4_if.md)
 - [Chapter6. 목록: list lappend concat](https://github.com/drgn88/ai-btcamp-TIL/blob/main/TCL/TIL/Chap6.%EB%AA%A9%EB%A1%9D%2C%20list.md)
+- [Chapter7. 반복문, while](https://github.com/drgn88/ai-btcamp-TIL/blob/main/TCL/TIL/Chap7.%EB%B0%98%EB%B3%B5%2Cwhile.md)
