@@ -145,6 +145,8 @@
 ### 보고서
 - [단일 Perceptron과 XOR 한계](https://github.com/drgn88/ai-btcamp-TIL/blob/main/AI/%EC%8B%A4%EC%8A%B5%EC%A0%95%EB%A6%AC/250625_and_perceptron.md)
 - [SLP 개선: MLP](https://github.com/drgn88/ai-btcamp-TIL/blob/main/AI/%EC%8B%A4%EC%8A%B5%EC%A0%95%EB%A6%AC/250626_MLP_SLP%EB%B9%84%EA%B5%90.md)
+- [CIFAR10 보고서](https://github.com/drgn88/ai-btcamp-TIL/blob/main/AI/%EC%8B%A4%EC%8A%B5%EC%A0%95%EB%A6%AC/%EB%B3%B4%EA%B3%A0%EC%84%9C/CIFAR10_Report_%EC%B5%9C%ED%98%84%EC%9A%B0.odp)
+- [신경망 모델 보고서](https://github.com/drgn88/ai-btcamp-TIL/blob/main/AI/%EC%8B%A4%EC%8A%B5%EC%A0%95%EB%A6%AC/%EB%B3%B4%EA%B3%A0%EC%84%9C/%EC%8B%A0%EA%B2%BD%EB%A7%9D_%EB%AA%A8%EB%8D%B8_%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%B5%9C%ED%98%84%EC%9A%B0.pdf)
 
 ## 📘개인공부
 
