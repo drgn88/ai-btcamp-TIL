@@ -1,0 +1,2 @@
+vcs -full64 -kdb -debug_access+all -f shift_reg_filelist
+./simv -verdi
