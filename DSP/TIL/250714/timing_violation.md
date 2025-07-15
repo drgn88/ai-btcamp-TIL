@@ -87,3 +87,21 @@
 
 Negative Slack을 없애는 것이 Back-end의 주 임무
 ---
+
+# Recovery/ Removal time⭐
+> 이 내용도 중요함 --> Critical Warning으로
+
+<img src="../250715/img_250715/스크린샷 2025-07-15 092222.png"><br>
+
+- Setup / Hold의 개념과 유사
+- Async Reset
+  - clk 근처에서 reset값이 바뀌면 안됨
+  - 변동이 생기면 F/F이 meta-stable에 빠질 수 있음
+- Recovery time
+  - Clk edge 앞 단에서 리셋값 변동이 생기면 안됨
+  - Reset이 종료되고 값이 정상적으로 복원되는 시간
+    - **Recovery time**
+- Removal time
+  - Clk edge 뒷 단에서 리셋값 변동이 생기면 안됨
+  - Reset이 수행되어 값이 초기화되는 시간
+    - **Removal time**
