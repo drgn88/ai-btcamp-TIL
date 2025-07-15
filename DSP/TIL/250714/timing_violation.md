@@ -85,6 +85,10 @@
   - -2ns의 negative slack이 발생
   - 이거 문제임
 
+$Setup Time Slack = Data Required Time (DRT) - Data Arrival Time (DAT)$
+
+$Hold Time Slack = Data Arrival Time (DAT) - Data Required Time (Hold)$
+
 Negative Slack을 없애는 것이 Back-end의 주 임무
 ---
 
