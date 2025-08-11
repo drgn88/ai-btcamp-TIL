@@ -29,6 +29,9 @@
 	- [🖋️DSP](#️dsp)
 		- [이론](#이론-4)
 		- [실습](#실습-1)
+	- [🖋️AI HW Verilog](#️ai-hw-verilog)
+		- [이론](#이론-5)
+		- [실습](#실습-2)
 	- [📘개인공부](#개인공부)
 		- [👨‍💻TCL](#tcl)
 
@@ -165,6 +168,17 @@
 
 [250714]
 - [TFV & Shift Register: TB input w Delta Delay](./DSP/실습/250714_실습.md)
+- 
+## 🖋️AI HW Verilog
+
+### 이론
+- [Review: F/F & Timing Violation](./ai_HW_verilog/TIL/250807/FF_time_violation.md)
+- [Review: UART 통신](./ai_HW_verilog/TIL/250808/250808.md)
+- [CPU: RISC-V CPU](./ai_HW_verilog/TIL/250809/250809.md)
+
+### 실습
+- [Dedicated Processor: 0~10 Accumulate Sum](./ai_HW_verilog/TIL/250809/실습_Dedicated_Processor.md)
+
 
 ## 📘개인공부
 
