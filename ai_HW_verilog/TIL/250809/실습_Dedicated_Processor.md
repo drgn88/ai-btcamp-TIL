@@ -185,3 +185,13 @@ Data Path Block Diagram
   - 연산 중단
 - Out_Buf_En
   - 연산 중단
+  
+# 헷갈렸던 부분❓
+
+## 언제 Register Enable을 하는가
+
+- C언어에서 Left Value에 값을 할당받는 것을 Register Enable을 한다
+```c
+  a = b + c;
+```
+- a의 값이 업데이트되니 이 때 Reg A를 Enable한다
