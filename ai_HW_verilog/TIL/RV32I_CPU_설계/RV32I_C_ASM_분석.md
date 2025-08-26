@@ -2,7 +2,7 @@
 
 |                       C code                       |                       Assembly                       |
 | :------------------------------------------------: | :--------------------------------------------------: |
-| <img src="./img/RV32I_LU_AU_J_JL_Type/C_code.png"> | <img src="./img/RV32I_LU_AU_J_JL_Type/assembly.png"> |
+| <img src="./img/RV32I_ASM분석/C_code.png"> | <img src="./img/RV32I_ASM분석/assembly.png"> |
 
 - sp: stack pointer
   - stack의 위치(주소)를 알려주는 레지스터
